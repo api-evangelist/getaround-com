@@ -1,0 +1,86 @@
+aid: getaround-com
+name: Getaround
+description: >-
+  Getaround is a peer-to-peer car-sharing marketplace and connected-car
+  technology company founded in 2009 and headquartered in San Francisco,
+  California, with significant European operations across France, Germany,
+  Spain, Belgium, Norway, and the United Kingdom. The platform pairs private
+  and professional vehicle owners with renters who book cars by the hour or
+  day, unlocking and starting vehicles from a mobile app rather than meeting
+  the owner to exchange keys. The keyless experience is enabled by Getaround
+  Connect, a proprietary in-car telematics device that the company designs
+  and installs in shared vehicles to handle remote lock/unlock, ignition,
+  GPS tracking, mileage reporting, fuel level monitoring, and trip event
+  recording. Getaround acquired Drivy in 2019 to consolidate the European
+  car-sharing market and acquired the HyreCar rideshare-driver rental
+  marketplace in 2022. The company went public on the NYSE via a SPAC merger
+  in December 2022 at a valuation of roughly $1.2 billion, was delisted from
+  the NYSE in July 2024 and transferred to OTC Pink under the ticker GETR
+  after its market capitalization collapsed to roughly $24 million. On
+  February 11, 2025, Getaround announced it was ceasing all United States
+  operations — including HyreCar — while preserving its European business,
+  which continues to operate in major EU cities under the same Getaround
+  Connect platform. Getaround has never published a public developer API,
+  OpenAPI specification, SDK, or developer portal; partner integrations
+  with insurers, fleet operators, and automotive OEMs have historically
+  been delivered through private, contract-bound APIs rather than a
+  self-service developer surface. The company's GitHub organization hosts
+  primarily forks of generic open-source libraries (Braintree SDKs,
+  iOS testing frameworks, logging libraries) rather than first-party API
+  artifacts.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Car Sharing
+  - Peer To Peer
+  - Mobility
+  - Connected Car
+  - Telematics
+  - Marketplace
+  - Transportation
+  - Fleet
+  - Carsharing Europe
+  - Keyless Entry
+  - Vehicle Rental
+  - Getaround Connect
+url: https://raw.githubusercontent.com/api-evangelist/getaround-com/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://getaround.com
+  - type: Company
+    url: https://getaround.com/about-us
+  - type: HelpCenter
+    url: https://help.getaround.com
+  - type: Business
+    url: https://getaround.com/business
+  - type: OwnerProgram
+    url: https://getaround.com/share-your-car
+  - type: ConnectTechnology
+    url: https://getaround.com/connect
+  - type: Press
+    url: https://getaround.com/press
+  - type: InvestorRelations
+    url: https://investors.getaround.com
+  - type: Careers
+    url: https://getaround.com/careers
+  - type: GitHubOrg
+    url: https://github.com/Getaround
+  - type: Twitter
+    url: https://twitter.com/Getaround
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/getaround
+  - type: Facebook
+    url: https://www.facebook.com/Getaround
+  - type: Instagram
+    url: https://www.instagram.com/getaround
+  - type: Wikipedia
+    url: https://en.wikipedia.org/wiki/Getaround
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
